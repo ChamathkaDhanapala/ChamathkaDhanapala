@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamathka Dhanapala</h1>
-<h3 align="center">Welcome to my GitHub! Welcome to my GitHub! I'm an undergraduate passionate about full-stack development. I enjoy exploring new technologies.</h3>
+<h3 align="center"> Welcome to my GitHub! I'm an undergraduate passionate about full-stack development. I enjoy exploring new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
