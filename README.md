@@ -101,8 +101,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChamathkaDhanapala/ChamathkaDhanapala/output/pacman-contribution-graph.svg">
 </picture>
 
-![Pacman Game](https://github.com/<your-username>/<your-repo>/blob/output/github-contribution-grid-snake.svg)
-
-
 ###
-
